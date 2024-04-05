@@ -9,13 +9,14 @@ logo = "/img/logo.png"
 mainSchool = false
 defaultDescription = "Kyengera Parents school-Mugongo is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
+        hm_name = "MPERESE JOHN BOSCO"
         name = "mugongo"
         motto = 'Education with a Purpose'
         mission = 'To be a leading school in the provision of quality education'
         vision = 'The vision of Kyengera Parents School, Mugongo is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work.'
         summary1 = 'Kyengera Parents school-Mugongo is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.'
         summary2 = 'At Kyengera Parents School, Mugongo, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.'
-        hm = "A school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge."
+        hm = "Dear parents/guardians, staff and pupils, it is with immense pride and joy that we address you through this special school handle.  We are thrilled to extend our warm welcome to each of you to our mighty school Kyengera Parents’ Mugongo. It is truly a privilege to serve as the Headteacher of such a vibrant and excelling educational institution."
     [params.carousel]
         two = "Offering a broad learning environment"
         three = "We train leaders by embracing smartness"

@@ -2,11 +2,21 @@
 title: "HEAD TEACHER'S MESSAGE"
 ---
 
-## Head Teacher
-A school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.
+## SPECIAL MESSAGE FROM THE HEADMASTER.
+Dear parents/guardians, staff and pupils, it is with immense pride and joy that we address you through this special school handle.  We are thrilled to extend our warm welcome to each of you to our mighty school Kyengera Parents’ Mugongo. It is truly a privilege to serve as the Headteacher of such a vibrant and excelling educational institution.
 
-Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge.
-The school is multi-denominational because all religions are given an hour per week to strengthen their faith. We go-ahead to hold confirmation and holy communion functions at school yearly
+Our school is a branch of Sir Apollo Kaggwa/CPS schools and we believe in providing a holistic education and credible learning environment which help to produce dynamic and talented Ugandan citizens.
 
-We shall be proud if you entrusted us with your child so that he/she can benefit from an enriched curriculum
+Every year, we navigate around our vision of “Being the number one education service provider in East Africa”, which we believe can be achieved through prioritizing unique etiquette, talent development programme in addition to a robust academic curriculum.
 
+We encourage creativity and critical thinking in our classrooms and we foster a sense of cultural and religious diversity amongst our learners.
+
+We are excited about the opportunities and achievements that lie a head and look forward to working closely with each of you as we continue to build a brighter future for our children.
+
+Thank you for entrusting us with your child’s education.
+
+Yours in service,
+
+
+### MPERESE JOHN BOSCO
+#### HEADMASTER _ KYENGERA PARENTS’ SCHOOL - MUGONGO
