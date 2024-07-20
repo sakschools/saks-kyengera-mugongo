@@ -1,7 +1,7 @@
 baseURL = 'https://mugongo.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
 title = 'Kyengera Parents School - Mugongo'
-theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+theme = "saks-theme"
 
 
 [params]
