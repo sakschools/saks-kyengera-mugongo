@@ -2,7 +2,7 @@
 title: "Kampala Junior League : Mugongo Shows Resilience and Progress Through
   Match Day 2"
 date: 2025-06-24T22:16:09+03:00
-thumbnail: /img/dsc_0121-1-.webp
+thumbnail: /img/dsc_0101.jpg
 ---
 Kyengera Parents’ School Mugongo has demonstrated commendable resilience and steady growth in the 2025 Kampala Junior League as they build momentum through Match Day 2. With performances marked by determination and tactical discipline, Mugongo’s teams continue to develop their competitive edge across the football categories.
 
