@@ -14,6 +14,8 @@ Kyengera Parents’ School Mugongo’s boys’ football team faced a challenging
 
 The boys bounced back with a commanding 5-1 victory over Kyengera Parents’ School, where Kato Careb’s remarkable four-goal haul was complemented by a goal from Wasswa Joshua. They followed this with a dominant 6-0 win against Sir Apollo Kaggwa Primary School Kira. Junju Gideon and Mudoola Benjamin both scored twice, while Kato Careb and Akamanya Kereb added one goal each, underlining the team’s attacking depth and growing confidence.
 
+![](/img/dsc_0643.jpg)
+
 After four matches played, their current stats stand at two wins and two losses, with 14 goals scored and five conceded. These results showcase a team rapidly improving in cohesion and execution, ready to push further in the tournament.
 
 ![](/img/1.png)
@@ -35,6 +37,8 @@ The girls’ team remains unbeaten after four matches, holding one win and three
 ## Junior Football
 
 The junior football category was newly introduced this term, and Kyengera Parents’ School Mugongo made a notable entry into the competition. On Match Day 2, the juniors delivered a thrilling 3-2 victory over Sir Apollo Kaggwa Primary School Kira, powered by a brace from Aamal Magid and a goal from Arinaitwe Wycliffe.
+
+![](/img/dsc_0101.jpg)
 
 However, the team also experienced a narrow 0-1 defeat to Kyengera Parents’ School, offering valuable lessons and perspective. With one win and one loss from their opening matches, the junior team has shown both promise and potential, laying a solid foundation for future growth in this newly established category.
 
