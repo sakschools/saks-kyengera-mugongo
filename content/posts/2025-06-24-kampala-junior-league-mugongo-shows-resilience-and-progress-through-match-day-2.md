@@ -44,7 +44,7 @@ However, the team also experienced a narrow 0-1 defeat to Kyengera Parents’ Sc
 
 ![](/img/3.png)
 
-Looking ahead, on Match Day 3 Kyengera Parents’ School Mugongo will travel to Sir Apollo Kaggwa Primary School Kitintale. This fixture presents a vital opportunity to build on the progress made so far and continue their pursuit of success in the Kampala Junior League.
+Looking ahead, on Match Day 3 we  will travel to Sir Apollo Kaggwa Primary School Kitintale. This fixture presents a vital opportunity to build on the progress made so far and continue our pursuit of success in the Kampala Junior League.
 
 We commend the coaches, teachers, and parents for their unwavering support, which continues to inspire these young athletes to push their limits and represent their school with pride.
 
