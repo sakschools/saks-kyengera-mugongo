@@ -1,0 +1,17 @@
+{
+  "theme": "saks-theme",
+  "logo": "/img/logo.png",
+  "mainSchool": false,
+  "school": {
+    "motto": "Education with a Purpose",
+    "mission": "To be a leading school in the provision of quality education",
+    "vision": "The vision of Kyengera Parents School, Mugongo is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
+  },
+  "address": "",
+  "title": "Kyengera Parents School - Mugongo",
+  "locale": "en-us",
+  "defaultDescription": "Kyengera Parents school-Mugongo is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
+  "email": "info@sirapollokaggwaschools.co.ug",
+  "baseURL": "https://mugongo.sirapollokaggwaschools.co.ug/",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.331000431775!2d32.504775008217564!3d0.284112850524285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177da2e26d44ed0f%3A0x79a0e4f8ca2421ca!2sMugongo%20Road%2C%20Kyengera!5e0!3m2!1sen!2sug!4v1711285229263!5m2!1sen!2sug"
+}
