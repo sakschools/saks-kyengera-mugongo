@@ -12,7 +12,7 @@ Kyengera Parents Day and Boarding Primary School – Mugongo is your school of c
 
 ## School Motto
 
-Our School Motto is: “Action With Words”
+Our School Motto is: “Action Not Words”
 
 ## Mission Statement
 
